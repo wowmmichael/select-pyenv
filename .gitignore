@@ -1,0 +1,26 @@
+.idea
+
+# Python
+*.pyc
+.eggs
+*.egg-info
+
+# Virtualenv
+venv
+
+.DS_Store
+.project
+.pydevproject
+
+.cache
+.pytest_cache
+.coverage
+
+build
+dist
+
+ca.pem
+cert.pem
+key.pem
+
+pip.conf
